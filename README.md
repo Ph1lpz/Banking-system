@@ -1,1 +1,1 @@
-<h1>Bankin system</h1>
+<h1>Banking system</h1>
